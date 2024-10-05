@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3767","Test Adding Item to Cart and Checkout","chromium","Sat Oct 05 13:57:26 EEST 2024","passed","Sat Oct 05 13:57:29 EEST 2024","","addToCart.spec.ts","",""
